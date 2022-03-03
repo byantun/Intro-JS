@@ -1,0 +1,24 @@
+{
+    "empleados" : [
+        {
+            "id":1,
+            "nombre":"Diego",
+            "puesto": "FullStack Developer"
+        },
+        {
+            "id":2,
+            "nombre":"Analia",
+            "puesto": "Ingeniera Civil"
+        },
+        {
+            "id":3,
+            "nombre":"Gregorio",
+            "puesto": "Ingeniero Informático"
+        },
+        {
+            "id":4,
+            "nombre":"Nelson",
+            "puesto": "Ingeniero Agronomo"
+        }
+    ]
+}
